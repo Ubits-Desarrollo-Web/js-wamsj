@@ -1,4 +1,4 @@
-var button = document.getElementById("registrar");
+var button = document.getElementById("enviar");
 var tel = document.getElementById("telefono");
 var msj = document.getElementById("mensaje");
 
